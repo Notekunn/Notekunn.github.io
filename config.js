@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://notekunn.netlify.com',
   pathPrefix: '/',
   title: "Notekunn's Blog",
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Blog cá nhân của mình',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,16 +12,16 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Bài viết',
       path: '/',
     },
     {
       label: 'About me',
-      path: '/pages/about',
+      path: '/pages/about-me',
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts',
+      label: 'Liên hệ',
+      path: '/pages/contact-me',
     },
   ],
   author: {
