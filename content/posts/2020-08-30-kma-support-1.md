@@ -56,4 +56,4 @@ Tương ứng với các database riêng.
 Đang cập nhật...
 
 
-[Phần tiếp theo](/2020/08/30/huong-dan-setup-kma-support-phan-2) mình sẽ hướng dẫn setup service `api`.
+[Phần tiếp theo](/posts/2020/08/30/huong-dan-setup-kma-support-phan-2) mình sẽ hướng dẫn setup service `api`.

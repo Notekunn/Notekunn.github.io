@@ -16,7 +16,7 @@ tags:
 
 ## LỜI MỞ ĐẦU
 
-[Xem phần trước](/2020/08/30/huong-dan-setup-kma-support-phan-1).
+[Xem phần trước](/posts/2020/08/30/huong-dan-setup-kma-support-phan-1).
 
 Phần này mình sẽ hướng dẫn deploy service `bot`.
 
